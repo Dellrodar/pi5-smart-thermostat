@@ -38,7 +38,6 @@ Maintainability and readability were achieved through clear code organization, c
 
 - `Thermostat.py` – Main thermostat application with state machine implementation  
 - `ThermostatServer-Simulator.py` – Server simulator for testing serial communication  
-- `MultiButtonTest.py` – Button testing utility  
 
 ---
 
